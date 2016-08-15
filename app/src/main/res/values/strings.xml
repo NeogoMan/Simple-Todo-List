@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple To Do list</string>
+    <string name="add_new_to_do">You don\'t have any To do click in the button t add new new</string>
+    <string name="go_ahead_now">Go ahead now</string>
+    <string name="notice">Notice</string>
+    <string name="no_data_entered">No Data Entered</string>
+    <string name="what_do_you">What do you will to do</string>
+    <string name="ads">ca-app-pub-6842456340557556/5170111426</string>
+
+</resources>
